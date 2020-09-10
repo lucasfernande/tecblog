@@ -25,6 +25,38 @@ body {
   padding: 10px;
 }
 
+#principal {
+  width: 920px;
+  margin: 0px auto;
+}
+
+#posts {
+  width: 660px;
+  float: left;
+}
+
+#menu-lateral {
+  width: 240px;
+  float: right;
+}
+
+#posts, #menu-lateral {
+  background: orange;
+}
+
+.postagem {
+   padding: 20px;
+   margin-bottom: 20px;
+   background: white;
+}
+
+#rodape {
+  clear: both;
+  text-align: center;
+  padding: 15px;
+  background: #CCC;
+}
+
 /* Formatações em Geral */
 
 h1 {
