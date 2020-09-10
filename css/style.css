@@ -1,1 +1,11 @@
+/* limpando as formatações padrão */
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 1em;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
